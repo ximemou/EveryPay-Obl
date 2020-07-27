@@ -1,0 +1,46 @@
+﻿
+
+<div ng-controller="payTransactionController" ng-init=GetBillsOfTransaction() ng-cloak="" layout-gt-sm="row" layout="column" class="listdemoBasicUsage">
+    <label>Facturas a pagar</label>
+    <br />
+
+    <div class="list-group dropdown bills" ng-repeat="bill in Bills">
+
+        <div id="{{bill['billId']}}">
+
+            <span class="label label-default">{{bill["supplier"]["name"]}} - Importe: {{bill["amount"]}}</span>
+
+            <button type="button" class="btn btn-default removeButton" ng-click="DeleteBill(bill['billId'])"><i class="fa fa-minus"></i></button>
+
+
+        </div>
+        <br />
+
+    </div>
+    <div>
+        {{errorMessage}}
+    </div>
+
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+    <label>Ingrese el tipo de pago</label>
+    <select class="form-control" id="paymentType">
+        <option>Cash</option>
+        <option>Debit Card</option>
+    </select> 
+    <br />
+
+    <label>Ingrese el efectivo para pagar </label>
+    <div class="input-group">
+        <span class="input-group-addon">$</span>
+        <input type="number" value="0" min="0" step="0.01" data-number-to-fixed="2" data-number-stepfactor="100" class="form-control currency amount-input" ng-model="AmountGiven" />       
+    </div>
+
+     <br />
+
+
+     <button class="btn btn-primary" ng-click="payTransaction()"> Confirmar </button>
+
+    
+</div>

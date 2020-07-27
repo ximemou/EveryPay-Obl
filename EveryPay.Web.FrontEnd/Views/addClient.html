@@ -1,0 +1,49 @@
+﻿
+<div ng-controller="clientsController" ng-app="validation">
+
+    <div id="clientsInputs">
+        <form name="form" class="form-group">
+            <div class="form-group" ng-class="{'has-error': form.name.$dirty && form.name.$error.required}">
+                <label>Nombre:</label>
+                <input type="text" ng-model="name" required name="name" class="form-control" id="exampleInputName2" placeholder="Nombre">
+                <span ng-show="form.name.$dirty && form.name.$error.required " class="help-block">Debe ingresar el nombre</span>
+            </div>
+            <br>
+            <div class="form-group" ng-class="{'has-error': form.lastName.$dirty && form.lastName.$error.required}">
+                <label>Apellido</label>
+                <input type="text" name="lastName" ng-model="lastName" required class="form-control" placeholder="Apellido">
+                <span ng-show="form.lastName.$dirty && form.lastName.$error.required" class="help-block">Debe ingresar el apellido</span>
+            </div>
+            <div class="form-group" ng-class="{'has-error': form.identification.$dirty && form.identification.$error.required}">
+                <label>Cedula de identidad</label>
+                <input type="text" name="identification"  ng-model="identification" required class="form-control" placeholder="Cedula de identidad">
+                <span ng-show="form.identification.$dirty && form.identification.$error.required" class="help-block">Debe ingresar la cedula</span>
+            </div>
+            <div class="form-group" ng-class="{'has-error': form.password.$dirty && form.password.$error.required}">
+                <label>Direccion</label>
+                <input type="text" name="address" ng-model="address" required class="form-control" placeholder="Direccion">
+                <span ng-show="form.password.$dirty && form.password.$error.required " class="help-block">Debe ingresar una direccion</span>
+            </div>
+            <div class="form-group" ng-class="{'has-error': form.confirmPassword.$dirty && form.confirmPassword.$error.required}">
+                <label>Numero de telefono</label>
+                <input type="text" name="phoneNumber" ng-model="phoneNumber" required class="form-control" placeholder="Numero de telefono">
+                <span ng-show="form.confirmPassword.$dirty && form.confirmPassword.$error.required" class="help-block">Debe ingresar un numero de telefono</span>
+            </div>
+
+        </form>
+
+    </div>
+
+    <br>
+
+
+    <button type="submit" ng-click="CreateClient()" class="btn btn-primary btn-block btn-block" ng-disabled="form.$invalid">Crear</button>
+
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+
+    <div class="text-danger">
+        {{errorMessage}}
+    </div>
+</div>

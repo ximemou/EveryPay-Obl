@@ -1,0 +1,19 @@
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Exceptions\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Exceptions\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Exceptions\bin\Debug\EveryPay.Exceptions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Exceptions\bin\Debug\EveryPay.Exceptions.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Exceptions\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Exceptions\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Exceptions\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Exceptions\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Exceptions\obj\Debug\EveryPay.Exceptions.pdb

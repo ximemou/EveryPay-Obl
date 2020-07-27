@@ -1,0 +1,108 @@
+﻿<div ng-controller="updateUserController" ng-cloak="" layout-gt-sm="row" layout="column" class="listdemoBasicUsage">
+    <!--<div ng-hide="show">
+        <label>
+            Ingrese el usuario a buscar
+        </label>
+        <input type="text" ng-model="userName">
+        <button class="fa fa-search" ng-click="SearchUser()"></button>
+        <div ng-hide="!showData">
+            <ul>
+                <li>
+                    Nombre: {{userSearched["name"]}}
+
+                </li>
+                <li>
+                    Apellido: {{userSearched["lastName"]}}
+                </li>
+
+                Nombre de usuario: {{userSearched["userName"]}}
+
+                <li>
+                    Role:{{userSearched["role"]}}
+                </li>
+
+
+            </ul>
+
+            <button class="glyphicon glyphicon-trash" ng-click="DeleteUser()"></button>
+
+        </div>
+    </div>-->
+
+    <br />
+    <div ng-hide="showAll">
+        <label>
+            Buscar todos los usuarios
+        </label>
+        <button class="fa fa-search" ng-click="SearchAllUsers()"></button>
+        <div class="list-group dropdown suppliers" ng-repeat="user in Users">
+
+            <div>
+
+                <button class="btn btn-default list-group-item" ng-click="ShowData(user)">
+                    {{user["userName"]}}
+                    <span class="caret"></span>
+                </button>
+
+                <div id="{{user['userId']}}" style="display:none" class="userDiv">
+
+                    <form name="form" class="form-group">
+                        <div class="form-group" ng-class="{'has-error': form.name.$dirty && form.name.$error.required}">
+                            <label>Nombre: </label>
+                            <input name="name" type="text" ng-model="name" class="form-control user-input" required>
+                            <span ng-show="form.name.$dirty && form.name.$error.required " class="help-block">Debe ingresar un nombre</span>
+
+                        </div>
+                        <div class="form-group" ng-class="{'has-error': form.name.$dirty && form.name.$error.required}">
+                            <label>Apellido: </label>
+                            <input name="lastName" type="text" ng-model="lastName" class="form-control user-input" required>
+                            <span ng-show="form.lastName.$dirty && form.lastName.$error.required " class="help-block">Debe ingresar un apellido</span>
+
+                        </div>
+                        <div class="form-group" ng-class="{'has-error': form.name.$dirty && form.name.$error.required}">
+                            <label>Nombre de usuario: </label>
+                            <input name="userName" type="text" ng-model="userName" class="form-control user-input" required>
+                            <span ng-show="form.userName.$dirty && form.userName.$error.required " class="help-block">Debe ingresar un nombre de usuario</span>
+
+                        </div>
+                        <div class="form-group" ng-class="{'has-error': form.password.$dirty && form.password.$error.required}">
+                            <label>Contraseña: </label>
+                            <input name="password" type="text" ng-model="password" class="form-control user-input" required>
+                            <span ng-show="form.password.$dirty && form.password.$error.required " class="help-block">Debe ingresar una contraseña</span>
+
+                        </div>
+                     
+                        <div>
+                        <select class="form-control user-input"  ng-model="role" value="{{user['role']}}">
+                            <option value="Cashier">Cashier</option>
+                            <option value="Administrator">Administrator</option>
+                        </select>
+
+                       </div>
+
+
+
+                <br />
+                </form>
+
+                    <button class="glyphicon glyphicon-pencil btn btn-primary btn-block" ng-disabled="form.$invalid" ng-click="UpdateUser(user['userId'])"></button> 
+            </div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+
+
+    <div>
+        {{errorMessage}}
+    </div>
+
+
+</div>

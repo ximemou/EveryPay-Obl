@@ -1,0 +1,42 @@
+﻿
+
+   
+
+    <div ng-controller="billController"  ng-init=GetSuppliers() ng-cloak="" layout-gt-sm="row" layout="column" class="listdemoBasicUsage">
+
+        <div  class="list-group dropdown suppliers" ng-repeat="supplier in Suppliers">
+
+            <div>
+            
+                 <button  class="btn btn-default list-group-item" ng-click="ShowSupplierFields(supplier['supplierId'])"> {{supplier["name"]}}
+                 <span class="caret"></span>
+                 </button>
+                  
+                 <div id="{{supplier['supplierId']}}" style="display:none" class="supplierFieldDiv"> 
+
+     
+                 </div>                
+            </div>
+          
+
+
+            </div>
+        <div>
+            {{errorMessage}}
+        </div>
+        <div>
+            <toaster-container></toaster-container>
+        </div>
+        <button class="btn btn-primary" ng-click="loadPaymentPage()"> Pagar Facturas </button>
+
+</div>
+
+
+        
+
+      
+
+
+
+   
+     

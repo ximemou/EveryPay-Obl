@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InfoWarnings>
+  <Info>Begin full analysis with NDepend v6.3.0.8686</Info>
+  <Info>No Baseline for Comparison loaded.</Info>
+  <Warning>Can't load the assembly {Microsoft.VisualStudio.QualityTools.UnitTestFramework}:
+Can't find the .NET assembly {Microsoft.VisualStudio.QualityTools.UnitTestFramework} in specified folders. 
+Has it been compiled properly? 
+Is the NDepend project missing the containing folder of the .NET assembly?</Warning>
+  <Info>Concurrent mode</Info>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Desktop.LogInterface}: Corresponding PDB file not found in any of the folder specified.
+PDB file production can be enabled in Visual Studio:  Project -&gt; Properties -&gt; Build -&gt; Advanced... -&gt; Debug Info = 'full' or 'pdb-only'</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Desktop.LogicController}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Desktop.ImportInterface}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.TokenManagment}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Log.Controller}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Web.Api.Tests}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.DTO}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Web.Services.Tests}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Web.FrontEnd}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Assembly {EveryPay.Web.FrontEnd} doesn't contain any type.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Desktop.WindowsFormApp}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Exceptions}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Warning>Source code info won't be available for the assembly {EveryPay.Desktop.LoginManager}: Corresponding PDB file not found in any of the folder specified.</Warning>
+  <Info>.NET Assemblies loaded from {\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api\bin} 
+   EveryPay.TokenManagment.dll   v1.0.0.0
+   EveryPay.Web.Api.dll   v1.0.0.0
+   EveryPay.Data.Repository.dll   v1.0.0.0
+   EveryPay.Data.dll   v1.0.0.0
+   EveryPay.Web.Services.dll   v1.0.0.0
+   EveryPay.Data.DataAccess.dll   v1.0.0.0
+   Microsoft.Owin.dll   v3.0.1.0
+   System.Web.Http.dll   v5.2.3.0
+   System.Net.Http.Formatting.dll   v5.2.3.0
+   Owin.dll   v1.0.0.0
+   System.Web.Http.Cors.dll   v5.2.3.0
+   EntityFramework.dll   v6.0.0.0
+   Newtonsoft.Json.dll   v9.0.0.0
+   Microsoft.Owin.Cors.dll   v3.0.0.0
+   System.Web.Http.Owin.dll   v5.2.3.0</Info>
+  <Info>.NET Assemblies loaded from {\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug} 
+   EveryPay.Exceptions.dll   v1.0.0.0
+   EveryPay.DTO.dll   v1.0.0.0
+   EveryPay.Web.Services.Tests.dll   v1.0.0.0
+   EveryPay.Log.Controller.dll   v1.0.0.0
+   EveryPay.Desktop.LogInterface.dll   v1.0.0.0
+   Moq.dll   v4.5.23.0
+   EntityFramework.Testing.Moq.dll   v1.0.0.0</Info>
+  <Info>.NET Assemblies loaded from {\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug} 
+   EveryPay.Web.Api.Tests.dll   v1.0.0.0
+   xunit.core.dll   v2.1.0.3179
+   xunit.assert.dll   v2.1.0.3179</Info>
+  <Warning>No application or third party assembly found in directory {\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services\bin\Debug}</Warning>
+  <Info>.NET Assembly loaded from {\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.FrontEnd\bin} 
+   EveryPay.Web.FrontEnd.dll   v1.0.0.0</Info>
+  <Info>.NET Assemblies loaded from {\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug} 
+   EveryPay.Desktop.ImportInterface.dll   v1.0.0.0
+   EveryPay.Desktop.LogicController.dll   v1.0.0.0
+   EveryPay.Desktop.LoginManager.dll   v1.0.0.0
+   EveryPay.Desktop.WindowsFormApp.exe   v1.0.0.0</Info>
+  <Info>.NET Assemblies loaded from {C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319} 
+   mscorlib.dll   v4.0.0.0
+   System.Core.dll   v4.0.0.0
+   System.Net.Http.dll   v4.0.0.0
+   System.dll   v4.0.0.0
+   System.ComponentModel.DataAnnotations.dll   v4.0.0.0
+   System.Windows.Forms.dll   v4.0.0.0
+   System.Drawing.dll   v4.0.0.0</Info>
+  <Warning>No application or third party assembly found in directory {C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\WPF}</Warning>
+  <Warning>Versioning issue: Assembly {EveryPay.Web.Api.Tests v1.0.0.0} references {Moq v4.5.22.0} but NDepend has loaded {Moq v4.5.23.0}</Warning>
+  <Warning>Assembly {Microsoft.VisualStudio.QualityTools.UnitTestFramework} is referenced by {EveryPay.Web.Services.Tests} but is not found.</Warning>
+  <Info>0 source file parsed ; 39 source files not found ; </Info>
+  <Info>0 code rule has been extracted from code.</Info>
+  <Info>No dependency cycle detected in assemblies referencement graph.</Info>
+  <Info>Do merge code generated by compiler into application code.</Info>
+  <Info>Analyse dependencies of your application.</Info>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data\Entities} referenced by the PDB file of the assembly {EveryPay.Data} can't be found.</Warning>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data\Entities\PaymentMethod} referenced by the PDB file of the assembly {EveryPay.Data} can't be found.</Warning>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data\Entities\Validators} referenced by the PDB file of the assembly {EveryPay.Data} can't be found.</Warning>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.DataAccess} referenced by the PDB file of the assembly {EveryPay.Data.DataAccess} can't be found.</Warning>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.DataAccess\Migrations} referenced by the PDB file of the assembly {EveryPay.Data.DataAccess} can't be found.</Warning>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository} referenced by the PDB file of the assembly {EveryPay.Data.Repository} can't be found.</Warning>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services} referenced by the PDB file of the assembly {EveryPay.Web.Services} can't be found.</Warning>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api\App_Start} referenced by the PDB file of the assembly {EveryPay.Web.Api} can't be found.</Warning>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api} referenced by the PDB file of the assembly {EveryPay.Web.Api} can't be found.</Warning>
+  <Warning>The source directory {C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api\Controllers} referenced by the PDB file of the assembly {EveryPay.Web.Api} can't be found.</Warning>
+  <Info>Log trend metrics values.</Info>
+  <Info>Execute queries and rules</Info>
+  <Warning>5 critical rules are violated.
+  - Methods too complex - critical
+  - Potentially dead Types
+  - Potentially dead Methods
+  - Exception class name should be suffixed with 'Exception'
+  - Don't call your method Dispose</Warning>
+  <Info>NDepend analysis done. Duration: 00:11</Info>
+  <Info>Building the report (standard).</Info>
+</InfoWarnings>

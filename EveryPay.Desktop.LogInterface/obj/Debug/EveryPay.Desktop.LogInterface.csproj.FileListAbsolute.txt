@@ -1,0 +1,15 @@
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\bin\Debug\EveryPay.Desktop.LogInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\obj\Debug\EveryPay.Desktop.LogInterface.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\obj\Debug\EveryPay.Desktop.LogInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\obj\Debug\EveryPay.Desktop.LogInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\bin\Debug\EveryPay.Desktop.LogInterface.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\obj\Debug\EveryPay.Desktop.LogInterface.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\obj\Debug\EveryPay.Desktop.LogInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\obj\Debug\EveryPay.Desktop.LogInterface.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\bin\Debug\EveryPay.Desktop.LogInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\obj\Debug\EveryPay.Desktop.LogInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\obj\Debug\EveryPay.Desktop.LogInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.LogInterface\obj\Debug\EveryPay.Desktop.LogInterface.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+﻿<div ng-controller="clientsController" ng-init=GetClients() ng-cloak="" layout-gt-sm="row" layout="column" class="listdemoBasicUsage">
+
+    <div class="list-group dropdown suppliers" ng-repeat="client in AllClients">
+
+        <div>
+
+            <ul>
+                <li>
+                    {{client["name"]}} - CI: {{client["identification"]}}
+                </li>
+
+            </ul>
+        </div>
+
+
+
+    </div>
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+
+    <div>
+        {{errorMessage}}
+    </div>
+
+
+</div>

@@ -1,0 +1,99 @@
+﻿<div ng-controller="deleteClientController" ng-cloak="" layout-gt-sm="row" layout="column" class="listdemoBasicUsage">
+    <div ng-hide="show">
+        <label>
+            Ingrese la cedula del cliente a buscar
+        </label>
+        <input type="text" ng-model="clientIdentification">
+        <button class="fa fa-search" ng-click="SearchClient()"></button>
+        <div ng-hide="!showData">
+            <ul>
+                <li>
+                    Nombre: {{clientSearched["name"]}}
+
+                </li>
+                <li>
+                    Apellido: {{clientSearched["lastName"]}}
+                </li>
+
+                 Cedula Identidad: {{clientSearched["identification"]}}
+
+                <li>
+                   Telefono:{{clientSearched["phoneNumber"]}}
+                </li>
+                <li>
+                    Direccion:{{clientSearched["address"]}}
+                </li>
+                <li>
+                    Puntos:{{clientSearched["totalPoints"]}}
+                </li>
+
+            </ul>
+
+            <button class="glyphicon glyphicon-trash" ng-click="DeleteClient()"></button>
+
+        </div>
+    </div>
+
+    <br />
+    <div ng-hide="showAll">
+        <label>
+            Buscar todos los clientes
+        </label>
+        <button class="fa fa-search" ng-click="SearchAllClients()"></button>
+        <div class="list-group dropdown suppliers" ng-repeat="client in Clients">
+
+            <div>
+
+                <button class="btn btn-default list-group-item" ng-click="ShowData(client)">
+                    {{client["name"]}}-{{client["identification"]}}
+                    <span class="caret"></span>
+                </button>
+
+                <div id="{{client['clientId']}}" style="display:none" class="clientDiv">
+
+                    <ul>
+                        <li>
+                            Nombre: {{client["name"]}}
+
+                        </li>
+                        <li>
+                            Apellido: {{client["lastName"]}}
+                        </li>
+
+                        Cedula Identidad: {{client["identification"]}}
+
+                        <li>
+                            Telefono:{{client["phoneNumber"]}}
+                        </li>
+                        <li>
+                            Direccion:{{client["address"]}}
+                        </li>
+                        <li>
+                            Puntos:{{client["totalPoints"]}}
+                        </li>
+
+
+                    </ul>
+
+                    <button class="glyphicon glyphicon-trash" ng-click="DeleteClient()"></button>
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+
+
+    <div>
+        {{errorMessage}}
+    </div>
+
+
+</div>
+

@@ -1,0 +1,14 @@
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Validators\bin\Debug\EveryPay.Validators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Validators\bin\Debug\EveryPay.Validators.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Validators\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Validators\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Validators\obj\Debug\EveryPay.Validators.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Validators\obj\Debug\EveryPay.Validators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Validators\obj\Debug\EveryPay.Validators.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Validators\bin\Debug\EveryPay.Validators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Validators\bin\Debug\EveryPay.Validators.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Validators\bin\Debug\EveryPay.Exceptions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Validators\bin\Debug\EveryPay.Exceptions.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Validators\obj\Debug\EveryPay.Validators.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Validators\obj\Debug\EveryPay.Validators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Validators\obj\Debug\EveryPay.Validators.pdb

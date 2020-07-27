@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E6301795-DB65-45A6-B3FD-082F11BE26F9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EveryPay.Web.Services</RootNamespace>
+    <AssemblyName>EveryPay.Web.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClientService.cs" />
+    <Compile Include="IClientService.cs" />
+    <Compile Include="ILogInService.cs" />
+    <Compile Include="IProfitService.cs" />
+    <Compile Include="LogInService.cs" />
+    <Compile Include="ProfitService.cs" />
+    <Compile Include="UserService.cs" />
+    <Compile Include="BillService.cs" />
+    <Compile Include="IUserService.cs" />
+    <Compile Include="IBillService.cs" />
+    <Compile Include="ISupplierService.cs" />
+    <Compile Include="ITransactionService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SupplierService.cs" />
+    <Compile Include="TransactionService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EveryPay.Data.Repository\EveryPay.Data.Repository.csproj">
+      <Project>{494b4395-4102-479f-8ee4-04a5e53e58cb}</Project>
+      <Name>EveryPay.Data.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EveryPay.Data\EveryPay.Data.csproj">
+      <Project>{372f53fe-1835-47a9-a5af-c03e0e319b1e}</Project>
+      <Name>EveryPay.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EveryPay.Desktop.LogInterface\EveryPay.Desktop.LogInterface.csproj">
+      <Project>{b2b0eee6-b4d9-4231-a68c-d5378a9fd210}</Project>
+      <Name>EveryPay.Desktop.LogInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EveryPay.DTO\EveryPay.DTO.csproj">
+      <Project>{089a8dc0-2f04-46f3-b014-41f77fbb2eac}</Project>
+      <Name>EveryPay.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EveryPay.Enumerators\EveryPay.Enumerators.csproj">
+      <Project>{721abfe7-3c00-4920-8dde-df4879ee7d4a}</Project>
+      <Name>EveryPay.Enumerators</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EveryPay.Exceptions\EveryPay.Exceptions.csproj">
+      <Project>{4d1a9290-2319-44ac-b687-c085cdf1c13e}</Project>
+      <Name>EveryPay.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EveryPay.Log.Controller\EveryPay.LogManager.csproj">
+      <Project>{314df890-ffe6-4009-a382-9050fcad3c82}</Project>
+      <Name>EveryPay.LogManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EveryPay.Payment\EveryPay.Payment.csproj">
+      <Project>{53ab2837-c5d9-47da-a743-be96bf7d214d}</Project>
+      <Name>EveryPay.Payment</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EveryPay.Validators\EveryPay.Validators.csproj">
+      <Project>{95a712cc-98ba-4149-b071-f52d2a9ee4b5}</Project>
+      <Name>EveryPay.Validators</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

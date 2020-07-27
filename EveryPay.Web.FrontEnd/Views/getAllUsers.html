@@ -1,0 +1,28 @@
+﻿<div ng-controller="usersController" ng-init=GetUsers() ng-cloak="" layout-gt-sm="row" layout="column" class="listdemoBasicUsage">
+
+    <div class="list-group dropdown suppliers" ng-repeat="user in Users">
+
+        <div>
+
+            <ul>
+                <li>
+                    {{user["name"]}} {{user["lastName"]}}  - Usuario: {{user["userName"] }} ( {{user["role"]}} )
+                </li>
+
+            </ul>
+        </div>
+
+
+
+    </div>
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+
+    <div>
+        {{errorMessage}}
+    </div>
+   
+
+</div>
+

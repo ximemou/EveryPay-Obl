@@ -1,0 +1,70 @@
+﻿<div ng-controller="updateClientController" ng-cloak="" layout-gt-sm="row" layout="column" class="listdemoBasicUsage">
+  
+
+    <br />
+    <div ng-hide="showAll">
+        <label>
+            Buscar todos los usuarios
+        </label>
+        <button class="fa fa-search" ng-click="SearchAllClients()"></button>
+        <div class="list-group dropdown suppliers" ng-repeat="client in Clients">
+
+            <div>
+
+                <button class="btn btn-default list-group-item" ng-click="ShowData(client)">
+                    {{client["name"]}}-{{client["identification"]}}
+                    <span class="caret"></span>
+                </button>
+
+                <div id="{{client['clientId']}}" ng-class="{'has-error': clientDiv.phone.$dirty && clientDiv.phone.$error.required && clientDiv.list.address.$dirty&& clientDiv.address.$error.$required }"   style="display:none" class="clientDiv">
+
+                    <form name="form" class="form-group">
+                        <div class="form-group">
+                            <label>Nombre: </label>  
+                             <input type="text" value="{{client['name']}}" class="client-input" readonly />
+                            
+                        </div>
+                        <div class="form-group">
+                           <label>Apellido: </label> 
+                            <input type="text" value="{{client['lastName']}}" class="client-input" readonly />
+                            
+                            </div>
+                        <div>
+                           <label>Cedula de identidad:</label> 
+                             <input type="text" value="{{client['identification']}}" class="client-input" readonly />
+                            
+                        </div>
+                            <div class="form-group" ng-class="{'has-error': form.address.$dirty && form.address.$error.required}">
+                                <label>Direccion:</label>
+                                <input name="address" type="text" ng-model="address"  class="form-control client-input" required>
+                                <span ng-show="form.address.$dirty && form.address.$error.required " class="help-block">Debe ingresar una direccion</span>
+                            </div>
+
+                            <div class="form-group" ng-class="{'has-error': form.phone.$dirty && form.phone.$error.required}">
+                                <label>Telefono: </label>
+                                <input name="phone" type="text" ng-model="phone" class="client-input form-control" required />
+                                <span ng-show="form.phone.$dirty && form.phone.$error.required " class="help-block">Debe ingresar un telefono</span>
+                            </div>
+                            <br />
+</form>
+                        <button type="submit" class="glyphicon glyphicon-pencil btn btn-primary btn-block" ng-disabled="form.$invalid" ng-click="UpdateClient(client['clientId'])"></button>
+</div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+
+
+    <div>
+        {{errorMessage}}
+    </div>
+
+
+</div>

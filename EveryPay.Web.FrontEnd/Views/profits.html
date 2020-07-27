@@ -1,0 +1,32 @@
+﻿<div ng-controller="profitsController">
+
+
+    Ingrese el rango de fechas a consultar las ganancias
+
+    <input type="date" class="form-control" id="initialDate">
+    <br />
+    <input type="date" class="form-control" id="finalDate">
+
+    <br />
+
+
+    <button type="submit" ng-click="GetProfitsBySupplier()" class="btn btn-primary">Consultar ganancias</button>
+    
+    <br />
+    <br />
+
+    <div id="totalProfits">
+
+        <p class="bg-primary">GANANCIAS TOTALES: {{TotalProfits}}</p> 
+
+    </div>
+
+    <br />
+    <br />
+
+    <canvas id="profitsBySupplier" width="200" height="200"></canvas>
+
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+</div>

@@ -1,0 +1,86 @@
+\\mac\home\documents\visual studio 2015\Projects\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.dll
+\\mac\home\documents\visual studio 2015\Projects\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.pdb
+\\mac\home\documents\visual studio 2015\Projects\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.dll
+\\mac\home\documents\visual studio 2015\Projects\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.dll.config
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.DataAccess.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.DataAccess.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.dll.config
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Exceptions.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Exceptions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Exceptions.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.dll.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.dll.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Data.Repository\obj\Debug\EveryPay.Data.Repository.pdb

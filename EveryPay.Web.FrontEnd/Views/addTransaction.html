@@ -1,0 +1,30 @@
+﻿<div ng-controller="transactionsController">
+
+   
+    <div style="background-color:lightgray">
+
+        <label>Ingrese la fecha de la transaccion</label> 
+
+
+        <div class="form-group">
+            <input type="date" ng-model="TransactionDate" class="form-control" id="transactionDate">
+        </div>
+        <br />
+
+        <label>Agregar cliente</label> 
+
+        <div class="form-group">
+            <input type="text" ng-model="Client" class="form-control">
+        </div>
+        <br />
+
+        <button type="submit" ng-click="AddBill()" class="btn btn-primary">Agregar Factura</button>
+
+    </div>
+
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+
+
+</div>

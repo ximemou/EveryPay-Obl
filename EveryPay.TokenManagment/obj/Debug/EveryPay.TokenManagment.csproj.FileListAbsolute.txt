@@ -1,0 +1,68 @@
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.dll.config
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.dll.config
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.Repository.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.DataAccess.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Exceptions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.Repository.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.DataAccess.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.dll.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.dll.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Enumerators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Enumerators.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.TokenManagment\obj\Debug\EveryPay.TokenManagment.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Enumerators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.TokenManagment\bin\Debug\EveryPay.Enumerators.pdb

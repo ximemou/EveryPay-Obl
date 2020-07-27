@@ -1,0 +1,9 @@
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Payment\bin\Debug\EveryPay.Payment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Payment\bin\Debug\EveryPay.Payment.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Payment\obj\Debug\EveryPay.Payment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Payment\obj\Debug\EveryPay.Payment.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Payment\bin\Debug\EveryPay.Payment.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Payment\bin\Debug\EveryPay.Payment.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Payment\obj\Debug\EveryPay.Payment.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Payment\obj\Debug\EveryPay.Payment.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Payment\obj\Debug\EveryPay.Payment.csprojResolveAssemblyReference.cache

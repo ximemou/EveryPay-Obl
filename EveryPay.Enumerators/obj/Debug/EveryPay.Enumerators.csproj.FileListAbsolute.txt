@@ -1,0 +1,9 @@
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Enumerators\bin\Debug\EveryPay.Enumerators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Enumerators\bin\Debug\EveryPay.Enumerators.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Enumerators\obj\Debug\EveryPay.Enumerators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Enumerators\obj\Debug\EveryPay.Enumerators.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Enumerators\bin\Debug\EveryPay.Enumerators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Enumerators\bin\Debug\EveryPay.Enumerators.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Enumerators\obj\Debug\EveryPay.Enumerators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Enumerators\obj\Debug\EveryPay.Enumerators.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Enumerators\obj\Debug\EveryPay.Enumerators.csprojResolveAssemblyReference.cache

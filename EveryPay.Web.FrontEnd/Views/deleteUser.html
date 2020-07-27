@@ -1,0 +1,85 @@
+﻿<div ng-controller="deleteUserController" ng-cloak="" layout-gt-sm="row" layout="column" class="listdemoBasicUsage">
+    <div ng-hide="show">
+        <label>
+            Ingrese el usuario a buscar
+        </label>
+        <input type="text" ng-model="userName">
+        <button class="fa fa-search" ng-click="SearchUser()"></button>
+        <div ng-hide="!showData">
+            <ul>
+                <li>
+                    Nombre: {{userSearched["name"]}}
+
+                </li>
+                <li>
+                    Apellido: {{userSearched["lastName"]}}
+                </li>
+
+                Nombre de usuario: {{userSearched["userName"]}}
+
+                <li>
+                    Role:{{userSearched["role"]}}
+                </li>
+
+
+            </ul>
+
+            <button class="glyphicon glyphicon-trash" ng-click="DeleteUser()"></button>
+
+        </div>
+    </div>
+
+    <br />
+    <div ng-hide="showAll">
+        <label>
+            Buscar todos los usuarios
+        </label>
+        <button class="fa fa-search" ng-click="SearchAllUsers()"></button>
+        <div class="list-group dropdown suppliers" ng-repeat="user in Users">
+
+            <div>
+
+                <button class="btn btn-default list-group-item" ng-click="ShowData(user)">
+                    {{user["userName"]}}
+                    <span class="caret"></span>
+                </button>
+
+                <div id="{{user['userId']}}" style="display:none" class="userDiv">
+
+                    <ul>
+                        <li><label>Nombre:</label> {{user["name"]}}</li>
+
+
+                        <li>  <label>Apellido: </label> {{user["lastName"]}}</li>
+
+
+                        <li>
+                            <label> Nombre de usuario:</label> {{user["userName"]}}
+                        </li>
+
+
+                        <li>  <label>Role:</label>{{user["role"]}}</li>
+
+                    </ul>
+
+                    <button class="glyphicon glyphicon-trash" ng-click="DeleteUser()"></button>
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+
+
+    <div>
+        {{errorMessage}}
+    </div>
+
+
+</div>

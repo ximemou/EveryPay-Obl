@@ -1,0 +1,115 @@
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.WindowsFormApp.exe.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.WindowsFormApp.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.WindowsFormApp.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.MainForm.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.ImportProductsPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.LogPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.MainMenuPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.Properties.Resources.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.csproj.GenerateResource.Cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LoginManager.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LoginManager.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.LogInPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogicController.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogicController.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.PointsVariablePanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.SuppliersBlackListPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.ImportInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.ImportInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.WindowsFormApp.exe.config
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.WindowsFormApp.exe
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.WindowsFormApp.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogicController.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LoginManager.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogInterface.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Exceptions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.Repository.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.ImportInterface.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.DataAccess.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogicController.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LoginManager.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Exceptions.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.Repository.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.ImportInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.DataAccess.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.MainForm.resources
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.ImportProductsPanel.resources
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.LogPanel.resources
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.LogInPanel.resources
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.MainMenuPanel.resources
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.PointsVariablePanel.resources
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.Properties.Resources.resources
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.SuppliersBlackListPanel.resources
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.exe
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Log.Controller.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Log.Controller.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.ProductAdministrationPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.WindowsFormApp.exe.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.WindowsFormApp.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.WindowsFormApp.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.ImportInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogicController.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LoginManager.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Log.Controller.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Enumerators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.ImportInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogicController.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LoginManager.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Log.Controller.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Enumerators.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.MainForm.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.ImportProductsPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.LogPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.LogInPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.MainMenuPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.PointsVariablePanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.ProductAdministrationPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.Properties.Resources.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.SuppliersBlackListPanel.resources
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.csproj.GenerateResource.Cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\obj\Debug\EveryPay.Desktop.WindowsFormApp.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Enumerators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.WindowsFormApp\bin\Debug\EveryPay.Enumerators.pdb

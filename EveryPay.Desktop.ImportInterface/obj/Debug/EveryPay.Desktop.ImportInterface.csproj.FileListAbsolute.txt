@@ -1,0 +1,14 @@
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\bin\Debug\EveryPay.Desktop.ImportInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\bin\Debug\EveryPay.Desktop.ImportInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\obj\Debug\EveryPay.Desktop.ImportInterface.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\obj\Debug\EveryPay.Desktop.ImportInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\obj\Debug\EveryPay.Desktop.ImportInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\bin\Debug\EveryPay.Desktop.ImportInterface.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\bin\Debug\EveryPay.Desktop.ImportInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\obj\Debug\EveryPay.Desktop.ImportInterface.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\obj\Debug\EveryPay.Desktop.ImportInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\obj\Debug\EveryPay.Desktop.ImportInterface.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\bin\Debug\EveryPay.Desktop.ImportInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\bin\Debug\EveryPay.Desktop.ImportInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\obj\Debug\EveryPay.Desktop.ImportInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Desktop.ImportInterface\obj\Debug\EveryPay.Desktop.ImportInterface.pdb

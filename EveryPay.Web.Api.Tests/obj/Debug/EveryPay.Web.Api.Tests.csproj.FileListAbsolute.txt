@@ -1,0 +1,309 @@
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\ApplicationInsights.config
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.dll.config
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Castle.Core.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.DataAccess.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.Repository.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Services.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Moq.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.abstractions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.DataAccess.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.Repository.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Services.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Castle.Core.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Moq.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.abstractions.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.dll.config
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Services.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Moq.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Moq.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Owin.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.Cors.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Owin.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Exceptions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.Cors.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Owin.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Exceptions.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.Cors.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.DTO.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.DTO.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.DTO.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Services.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.DTO.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.TokenManagment.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.abstractions.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Cors.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Cors.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.dll.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Services.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Moq.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Owin.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.DTO.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Services.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Moq.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.abstractions.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.DTO.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Desktop.LogInterface.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Log.Controller.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Log.Controller.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\ApplicationInsights.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csc.exe.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csc.rsp
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csi.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\csi.rsp
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\vbc.rsp
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.dll.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Enumerators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Services.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Moq.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Owin.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.DTO.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Desktop.LogInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Validators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Payment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Log.Controller.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Cors.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Enumerators.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Api.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Web.Services.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Moq.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.abstractions.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.assert.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.core.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.DTO.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.TokenManagment.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Validators.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Payment.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Log.Controller.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Api.Tests\obj\Debug\EveryPay.Web.Api.Tests.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Enumerators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Validators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Payment.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Enumerators.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Validators.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Api.Tests\bin\Debug\EveryPay.Payment.pdb

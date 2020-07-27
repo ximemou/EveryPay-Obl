@@ -1,0 +1,34 @@
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Log.Controller.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Log.Controller.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.Repository.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Desktop.LogInterface.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.DataAccess.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Exceptions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.Repository.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.DataAccess.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Exceptions.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\obj\Debug\EveryPay.LogManager.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\obj\Debug\EveryPay.Log.Controller.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Log.Controller\obj\Debug\EveryPay.Log.Controller.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Log.Controller.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Log.Controller.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Desktop.LogInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\obj\Debug\EveryPay.LogManager.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\obj\Debug\EveryPay.Log.Controller.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Log.Controller\obj\Debug\EveryPay.Log.Controller.pdb

@@ -1,0 +1,149 @@
+﻿<script src="../AuxiliaryScripts/addSuppliersHelper.js"></script>
+<div ng-controller="updateSupplierController" ng-cloak="" layout-gt-sm="row" layout="column" class="listdemoBasicUsage">
+
+
+    <br />
+    <div ng-hide="showAll">
+        <label>
+            Buscar todos los proveedores
+        </label>
+        <button class="fa fa-search" ng-click="SearchAllSuppliers()"></button>
+        <div class="list-group dropdown suppliers" ng-repeat="supplier in Suppliers">
+
+            <div>
+
+                <button class="btn btn-default list-group-item  suuplierNameButton" style="display:block" ng-click="ShowData(supplier)">
+                    {{supplier["name"]}}
+                    <span class="caret"></span>
+                </button>
+                <br />
+                <div id="{{supplier['supplierId']}}"  style="display:none" class="supplierDiv">
+
+                    <form name="form" class="form-group">
+                        
+                       
+                        
+                        <div class="form-group" ng-class="{'has-error': form.name.$dirty && form.name.$error.required}">
+                            <label>Nombre: </label>
+                            <input name="name" type="text" ng-model="name" class="supplier-input" readonly required />
+                            <span ng-show="form.name.$dirty && form.name.$error.required " class="help-block">Debe ingresar un nombre</span>
+                        </div>
+                        <div class="form-group" ng-class="{'has-error': form.commission.$dirty && form.commission.$error.required}">
+                            <label>Commission: </label>
+                            <input name="commission" type="number" ng-model="commission" class="supplier-input" readonly required />
+                            <span ng-show="form.commission.$dirty && form.commission.$error.required " class="help-block">Debe ingresar una comision</span>
+
+                        </div >
+
+                        <button class="fa fa-pencil btn btn-primary btn-block" ng-click="EditSupplier(supplier['supplierId'])"></button>
+
+                        <button ng-hide="!hideSaveButton" class="glyphicon glyphicon-floppy-saved btn btn-primary btn-block" ng-disabled="form.$invalid" ng-click="ModifySupplier(supplier['supplierId'])"></button>
+                         
+                    </form>
+                    <br />
+                    <div class="alert-danger">
+                        {{errorModifySupplier}}
+                    </div>
+
+                   <br />
+                    <h4>Campos particulares</h4>
+                    <div>
+                        {{supplierFieldError}}
+                    </div>
+                <div class="list-group dropdown suppliers" ng-repeat="supplierField in SupplierFields">
+
+                  
+                   ------------------------------------------------------------------------------------------------------
+                    <div class="form-group">
+                        <label>Nombre del campo: </label>
+                        <input type="text" value="{{supplierField['fieldName']}}" class="supplierfield-input" readonly />
+                    </div>
+                    <div class="form-group">
+                        <label>Tipo de campo: </label>
+                        <input type="text" value="{{supplierField['typeOfField']}}" class="supplierfield-input" readonly />
+
+                    </div>
+            
+                  
+                    <button class="glyphicon glyphicon-trash btn btn-primary" ng-click="DeleteField(supplier['supplierId'],supplierField['supplierFieldId'])"></button>
+
+                   
+
+
+                </div>
+                -------------------------------------------------------------------------------------------------------------------------
+                    <button class="glyphicon glyphicon-trash btn btn-primary btn-block" ng-click="AddField(supplier)">Agregar campo particular</button>
+                   <br />
+               </div>
+                </div>
+            </div>
+
+                     <div id="supplierFieldsInput" ng-hide="!show">
+                        
+                        <form id="SupplierFieldsForm" method="post" class="form-horizontal">
+                            <div class="form-group">
+                                <label class="col-xs-2 control-label">Agregar campo particular</label>
+                                <div class="col-xs-4">
+                                    <input type="text" class="form-control" placeholder="Nombre del campo" />
+                                </div>
+                                <div class="col-xs-4">
+
+                                    <select class="form-control">
+                                        <option>Text</option>
+                                        <option>Numeric</option>
+                                        <option>Date</option>
+                                    </select>
+
+                                </div>
+                                <div class="col-xs-1">
+                                    <button type="button" class="btn btn-default addButton" ng-click="handButtonEvent()"><i class="fa fa-plus"></i></button>
+                                </div>
+                            </div>
+
+
+                            <div class="form-group hide" id="FieldsTemplate">
+                                <div class="col-xs-4 col-xs-offset-2">
+                                    <input type="text" class="form-control" name="title" placeholder="Nombre del campo" />
+                                </div>
+                                <div class="col-xs-4">
+
+                                    <select class="form-control ">
+                                        <option>Text</option>
+                                        <option>Numeric</option>
+                                        <option>Date</option>
+                                    </select>
+
+                                </div>
+                                <div class="col-xs-1">
+                                    <button type="button" class="btn btn-default removeButton"><i class="fa fa-minus"></i></button>
+                                </div>
+                            </div>
+                        </form>
+                   </div>
+
+                    <button ng-hide="!show" class="fa fa-save btn btn-primary btn-block" ng-click="SaveSupplierFields()">Guardar campos</button>
+                    <div class="text-danger">
+
+                        {{errorAddFieldsMessage}}
+                    </div>
+                
+
+           
+
+
+
+        
+
+    </div>
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+
+
+
+    <div>
+        {{errorMessage}}
+    </div>
+
+
+</div>

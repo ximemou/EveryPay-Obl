@@ -1,0 +1,135 @@
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Castle.Core.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.Repository.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Moq.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.DataAccess.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.Repository.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Castle.Core.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Moq.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.DataAccess.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Moq.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Moq.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Exceptions.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Exceptions.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.DTO.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.DTO.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.DTO.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.DTO.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.pdb
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.TokenManagment.dll
+C:\Users\ismaelp\Documents\Diseño de Aplicaciones 2\Obligatorio 1\Codigo Fuente\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.TokenManagment.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.dll.config
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.Moq.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.xml
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.Moq.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.dll.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.Moq.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.DTO.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Moq.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.DTO.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.Moq.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Moq.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Desktop.LogInterface.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Log.Controller.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Log.Controller.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.dll.config
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.Tests.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Castle.Core.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.Moq.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.DataAccess.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.Repository.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.DTO.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Enumerators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Exceptions.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Moq.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Payment.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Desktop.LogInterface.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Validators.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Log.Controller.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.DataAccess.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.Repository.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Data.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.DTO.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Enumerators.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Exceptions.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Web.Services.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Castle.Core.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EntityFramework.Testing.Moq.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\Moq.xml
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Payment.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Desktop.LogInterface.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Validators.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Log.Controller.pdb
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.dll
+C:\Users\ismaelp\Documents\Diseño 2\187086-175660\EveryPay\EveryPay.Web.Services.Tests\obj\Debug\EveryPay.Web.Services.Tests.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Enumerators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Payment.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Validators.dll
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Enumerators.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Payment.pdb
+\\Mac\Home\Desktop\GitHub\187086-175660\EveryPay\EveryPay.Web.Services.Tests\bin\Debug\EveryPay.Validators.pdb

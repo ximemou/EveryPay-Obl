@@ -1,0 +1,26 @@
+﻿
+<div ng-controller="suppliersController" ng-init="GetAllSuppliers()" layout-gt-sm="row" layout="column">
+
+    <div class="list-group dropdown suppliers" ng-repeat="supplier in AllSuppliers">
+
+        <div>
+
+            <div class="btn btn-default list-group-item">
+                {{supplier["name"]}}
+                <button type="submit" ng-click="deleteSupplier(supplier['supplierId'])" id="{{supplier['supplierId']}}" class="btn-default">X</button>
+            </div>
+
+        </div>
+
+
+
+    </div>
+
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+    <div>
+        {{errorMessage}}
+    </div>
+
+</div>

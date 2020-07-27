@@ -1,0 +1,65 @@
+﻿
+<div ng-controller="usersController" ng-app="validation">
+
+    <div id="userInputs">
+        <form name="form" class="form-group">
+            <div class="form-group" ng-class="{'has-error': form.name.$dirty && form.name.$error.required}">
+                <label>Nombre:</label>
+                <input type="text" ng-model="name" required name="name" class="form-control" id="exampleInputName2" placeholder="Nombre" >
+                <span ng-show="form.name.$dirty && form.name.$error.required " class="help-block">Debe ingresar el nombre</span>
+            </div>
+            <br>
+            <div class="form-group" ng-class="{'has-error': form.lastName.$dirty && form.lastName.$error.required}">
+                <label>Apellido</label>
+                <input type="text" name="lastName" ng-model="lastName" required class="form-control" placeholder="Apellido">
+                <span ng-show="form.lastName.$dirty && form.lastName.$error.required" class="help-block">Debe ingresar el apellido</span>
+            </div>
+            <div class="form-group" ng-class="{'has-error': form.userName.$dirty && form.userName.$error.required}">
+                <label>Nombre de usuario</label>
+                <input type="text" name="userName" ng-model="userName" required class="form-control" placeholder="Nombre usuario">
+                <span ng-show="form.userName.$dirty && form.userName.$error.required" class="help-block">Debe ingresar el nombre de usuario</span>
+            </div>
+            <div class="form-group" ng-class="{'has-error': form.password.$dirty && form.password.$error.required}">
+                <label>Contraseña</label>
+                <input type="password" name="password" ng-model="password" required class="form-control" placeholder="Contraseña">
+                <span ng-show="form.password.$dirty && form.password.$error.required" class="help-block">Debe ingresar una contraseña</span>
+            </div>
+            <div class="form-group"  ng-class="{'has-error': form.confirmPassword.$dirty && form.confirmPassword.$error.required}">
+                <label>Confirme contraseña</label>
+                <input type="password" name="confirmPassword" ng-model="confirmPassword" required class="form-control" placeholder="Repita contraseña">
+                <span ng-show="form.confirmPassword.$dirty && form.confirmPassword.$error.required" class="help-block">Debe ingresar una contraseña</span>
+                <span ng-show="confirmPassword!=password" style="color:red">Las contrasenas no coinciden</span>
+            </div>
+            <!--<div class="form-group" ng-class="{'has-error': form.role.$dirty && form.role.$error.required}">
+                <label>Rol</label>
+                <input type="text" name="role" ng-model="role" required class="form-control" placeholder="Rol">
+                <span ng-show="form.role.$dirty && form.role.$error.required" class="help-block">Debe ingresar un rol</span>
+            </div>-->
+            <br />
+            <div class="col-xs-4">
+                <label>Rol:</label>
+                <select ng-model="role" class="form-control">
+                    <option>Cashier</option>
+                    <option>Administrator</option>    
+                </select>
+
+            </div>
+
+
+
+        </form>
+
+    </div>
+   
+
+    <br>
+
+   
+    <button type="submit" ng-click="CreateUser()" class="btn btn-primary btn-block btn-block" ng-disabled="form.$invalid">Crear</button>
+    <div>
+        <toaster-container></toaster-container>
+    </div>
+    <div class="text-danger">
+        {{errorMessage}}
+    </div>
+</div>
